@@ -14,7 +14,8 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using Re
 
 Here's a quick demonstration of how to play the Tic-Tac-Toe game:
 
-![Tic-Tac-Toe Demo]()
+![Tic-Tac-Toe](https://github.com/johnny-hacker/Tic-Tac-Toe/assets/107173906/00ccf49d-d9bb-4ddd-83bf-bbd00d079c2a)
+
 
 
 ## Installation
