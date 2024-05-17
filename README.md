@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This project is a simple implementation of the classic Tic-Tac-Toe game using React. It includes features such as real-time updates, player name editing, and game logs.
+This project is a simple implementation of the classic Tic-Tac-Toe game using React. It includes features such as real-time updates, player name editing, and game logs. This game deomonstrates and practices core react concepts such as managing state, components, Props, lifting state, and deriving state for multiple components
 
 ## Table of Contents
 
