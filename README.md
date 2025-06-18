@@ -70,7 +70,3 @@ The Tic-Tac-Toe game consists of several components:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Credits
-
-This project is based on the Tic-Tac-Toe game project created by Maximilian Schwarzmüller, as part of the course "React - The Complete Guide 2024 (incl. Next.js, Redux)" on Udemy.
-
