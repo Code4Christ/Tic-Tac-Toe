@@ -25,7 +25,7 @@ To install and run the Tic-Tac-Toe game, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/JUNE8UG/tic-tac-toe.git
+    git clone https://github.com/Code4Christ/Tic-Tac-Toe.git
     ```
 
 2. Navigate to the project directory:
